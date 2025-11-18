@@ -26,7 +26,5 @@ The template includes multiple dynamic sections like Home, Features, Services, A
 3. JavaScript
 4. Bootstrap 4
 5. jQuery
+6. Animate.css
 
-WOW.js / Animate.css
-
-Owl Carousel
